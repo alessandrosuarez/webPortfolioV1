@@ -1,0 +1,12 @@
+body{background-color: #F7F7F7;}
+h1{color: #6D9886;}
+h3{color: #393E46;}
+h4{color: #393E46;}
+ul{color: #393E46;}
+p{color: #393E46;}
+
+hr{
+  border-style:dotted none none;
+  border-color: #F2E7D5;
+  border-width: 8px;
+  width: 3%;}
